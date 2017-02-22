@@ -1,0 +1,80 @@
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(MHDR2X20)
+Added Component: Designator=P3(HDR1X3)
+Added Component: Designator=P4(HDR1X4)
+Added Component: Designator=P5(HDR1X3)
+Added Component: Designator=P6(HDR1X3)
+Added Component: Designator=P7(HDR1X4)
+Added Component: Designator=P8(HDR1X3)
+Added Component: Designator=P9(HDR1X4)
+Added Component: Designator=P10(HDR1X3)
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=3.3V Pin=P2-17
+Added Pin To Net: NetName=3.3V Pin=P3-1
+Added Pin To Net: NetName=3.3V Pin=P4-1
+Added Pin To Net: NetName=3.3V Pin=P9-4
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=P1-2
+Added Pin To Net: NetName=5V Pin=P2-2
+Added Pin To Net: NetName=5V Pin=P2-4
+Added Pin To Net: NetName=5V Pin=P5-1
+Added Pin To Net: NetName=5V Pin=P6-1
+Added Pin To Net: NetName=5V Pin=P7-1
+Added Pin To Net: NetName=5V Pin=P8-1
+Added Pin To Net: NetName=5V Pin=P10-1
+Added Net: Name=5V
+Added Pin To Net: NetName=DHT11 Pin=P2-18
+Added Pin To Net: NetName=DHT11 Pin=P3-2
+Added Net: Name=DHT11
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-14
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Pin To Net: NetName=GND Pin=P2-25
+Added Pin To Net: NetName=GND Pin=P2-30
+Added Pin To Net: NetName=GND Pin=P2-34
+Added Pin To Net: NetName=GND Pin=P2-39
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P7-4
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P9-3
+Added Pin To Net: NetName=GND Pin=P10-2
+Added Net: Name=GND
+Added Pin To Net: NetName=GPS_RX Pin=P2-10
+Added Pin To Net: NetName=GPS_RX Pin=P9-1
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=P2-8
+Added Pin To Net: NetName=GPS_TX Pin=P9-2
+Added Net: Name=GPS_TX
+Added Pin To Net: NetName=LDR Pin=P2-22
+Added Pin To Net: NetName=LDR Pin=P5-3
+Added Net: Name=LDR
+Added Pin To Net: NetName=MQ7 Pin=P2-12
+Added Pin To Net: NetName=MQ7 Pin=P8-3
+Added Net: Name=MQ7
+Added Pin To Net: NetName=MQ135 Pin=P2-40
+Added Pin To Net: NetName=MQ135 Pin=P6-3
+Added Net: Name=MQ135
+Added Pin To Net: NetName=RAIN Pin=P2-16
+Added Pin To Net: NetName=RAIN Pin=P10-3
+Added Net: Name=RAIN
+Added Pin To Net: NetName=SCL Pin=P1-4
+Added Pin To Net: NetName=SCL Pin=P2-5
+Added Pin To Net: NetName=SCL Pin=P4-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=P2-3
+Added Pin To Net: NetName=SDA Pin=P4-2
+Added Net: Name=SDA
+Added Pin To Net: NetName=US_ECHO Pin=P2-15
+Added Pin To Net: NetName=US_ECHO Pin=P7-3
+Added Net: Name=US_ECHO
+Added Pin To Net: NetName=US_TRIG Pin=P2-13
+Added Pin To Net: NetName=US_TRIG Pin=P7-2
+Added Net: Name=US_TRIG
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

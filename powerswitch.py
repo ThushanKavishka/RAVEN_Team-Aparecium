@@ -3,7 +3,7 @@ import time
 import os
 
 GPIO.setmode(GPIO.BCM)
-#using GPIO number 13
+#using GPIO number 13..
 GPIO.setup(13, GPIO.IN, pull_up_down = GPIO.PUD_UP)
 
 def Shutdown(channel):

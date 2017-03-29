@@ -3,7 +3,7 @@
 
 import os
 import RPi.GPIO as GPIO
-import Adafruit_BMP.BMP085 as BMP085   # the pressure and temnperature sensor
+import Adafruit_BMP.BMP085 as BMP085   # the pressure and temnperature sensor_
 import Adafruit_DHT as DHT11           # the DHT11 hunidty and temperature sensor
 import smbus
 import time

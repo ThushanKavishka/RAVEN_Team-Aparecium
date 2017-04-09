@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Scripted by Team Aparecium
+#Scripted by Team Aparecium..
 
 import os
 import RPi.GPIO as GPIO

@@ -10,7 +10,7 @@ import time
 import requests  # HTTP
 from time import sleep                 
  
-#intitialization of the sensors
+#intitialization of the sensors...
 sensor = BMP085.BMP085()  # pressure and temperature
 sensor2 = DHT11           # humidity and temperature
 onewirepin = 24            # the pin for the one wire sensor

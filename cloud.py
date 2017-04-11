@@ -18,7 +18,7 @@ sensor1type = "BMP180"    # the type of sensor
 sensor2type = 11          # the type of sensor    
 
 
-#BMP085 Sensor
+#BMP085 Sensor..
 sensor = BMP085.BMP085(mode=BMP085.BMP085_ULTRAHIGHRES)
  
 #Cloud information(Thingspeak)

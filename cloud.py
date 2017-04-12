@@ -75,7 +75,7 @@ print " Date/Time                   Point    Temp     Temp2   Pressure     Humid
 print "                               #       C         C        mbar          %           m        Pressure(Pa)            Monoxide     Code  "
 print "----------------------------------------------------------------------------------------------------------------------------------------"
 print " "
-time.sleep(2)  # wait for the DHT sensor as it does not like to be accessed faster than every 2 seconds
+time.sleep(2)  # wait for the DHT sensor as it does not like to be accessed faster than every 2 seconds...
 # Now we enter the min code
  
 try:           # wrapper to allow clean exit...
